@@ -1,0 +1,24 @@
+[
+  {
+    "id": "fallback-1",
+    "name": "حالة تجريبية واحد",
+    "nationalId": "26901101050921",
+    "spouse": "زوجة تجريبية",
+    "spouseNationalId": "30001001000001",
+    "phone1": "01234567890",
+    "phone2": "",
+    "researcher": "نظام التجربة",
+    "notes": "بيانات احتياطية محلية - تم استخدامها لعدم توفر Notion"
+  },
+  {
+    "id": "fallback-2",
+    "name": "حالة تجريبية اثنين",
+    "nationalId": "26601030201665",
+    "spouse": "",
+    "spouseNationalId": "",
+    "phone1": "1202671765",
+    "phone2": "1285574348",
+    "researcher": "نظام التجربة",
+    "notes": "سجل بديل"
+  }
+]
